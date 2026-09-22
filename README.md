@@ -1,5 +1,3 @@
-# joohajin010.github.io
-compsci assignment
 <!DOCTYPE html>
 <html>
 <head>
