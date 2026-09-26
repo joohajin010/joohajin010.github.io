@@ -19,11 +19,13 @@ h1 {color: red;}
 
 <body>
 
-<h1>Heading no. 1</h1>
+<h1>My Cycling Hobby</h1>
 <h3>Heading no. 2</h3>
-<p>This is a <i>sentence</i>.</p>
-<p>This is another <strong>sentence</strong>.</p>
-<p>This is the last sentence.</p>
+<p>Cycling is an <i>excellent</i>.</p>
+<p>Cycling is the most <strong>efficient</strong> form of human transportation!</p>
+<p>In fact, the yearly cost of maintenance for a bicycle is 20 times cheaper than for a single car.
+<p>You can check out some of the fastest cycling bikes on <a href="https://www.cyclingweekly.com/news/product-news/aero-bikes-buyers-guide-215674</a>.</p>
+</p>
 
 <!-- Extra Feature: Square Image -->
 <div class="square-image"></div>
